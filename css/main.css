@@ -198,6 +198,36 @@ PAGE CONTACT
 }
 
 
+
+
+/**************************
+PAGE Nut
+**************************/
+
+
+
+#nutpictures ul li {
+  float: left;
+  width: 25%;
+  margin: 2.5px;
+
+
+}
+
+
+#nutpictures ul li img {
+  width: 100%;
+  background-color: 000000;
+  color: 000000;
+  text-align: center;
+  list-style: none;
+  padding: .002%;
+ 
+}
+
+
+
+
 /**************************
   Colors
 **************************/
